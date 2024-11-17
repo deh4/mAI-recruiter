@@ -1,4 +1,5 @@
 # mAI-recruiter
+![image](https://github.com/user-attachments/assets/e8cfbed7-47f5-4a65-afe9-d268fdb12d9e)
 
 ## Overview
 **mAI-recruiter** is an AI-powered application that assesses your resume against a job description. It supports job descriptions in text, URL, or PDF formats and uses either a local LLM (like Ollama) or external services like Azure OpenAI.
