@@ -1,0 +1,6 @@
+gradio
+PyPDF2
+requests
+beautifulsoup4
+lxml
+python-dotenv
